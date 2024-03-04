@@ -38,6 +38,8 @@ div.container {
   flex-wrap:wrap;
   margin-left:3rem;
   border-bottom: 2px solid #d9d9d9;
+  /* border-bottom: 2px solid #efefef; */
+
 }
 .input-part {
   display: flex;
